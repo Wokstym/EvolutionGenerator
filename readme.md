@@ -15,5 +15,5 @@ As a extension there had been introduced scavenger which survive by eating carri
 
 ## Showcase
 
-![showcasing gif](src/main/resources/herbivore.png)
+![showcasing gif](src/main/resources/EvolutionGenerator.gif)
 
