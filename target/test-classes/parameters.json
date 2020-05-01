@@ -1,0 +1,11 @@
+{
+  "mapWidth": 20,
+  "mapHeight": 20,
+  "jungleRatio": 4,
+  "plantEnergy": 10,
+  "carrionEnergy": 50,
+  "moveEnergy": 2,
+  "startEnergy": 100,
+  "nrOfStartHerbivores": 10,
+  "nrOfStartScavenger": 3
+}
